@@ -1,5 +1,5 @@
 
-# Análisis de Engagement en Redes Sociales  
+# **Análisis de Engagement en Redes Sociales**  
 
 Análisis de publicaciones en redes sociales para identificar patrones de engagement, visualizar métricas clave y explorar modelos predictivos. Proyecto desarrollado con Python, SQL y Looker Studio.
                                                                                                               
